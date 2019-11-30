@@ -1,3 +1,5 @@
+package aula01;
+
 public class retangulo{
 	private ponto c;
 	private double altura;

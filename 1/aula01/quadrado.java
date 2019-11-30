@@ -1,3 +1,5 @@
+package aula01;
+
 public class quadrado{
 	private ponto c;
 	private double lado;

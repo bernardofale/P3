@@ -1,0 +1,185 @@
+Origem Voos 
+Madrid	16
+Paris, Orly	16
+Faro	4
+Paris, Ch. de Gaulle	4
+Paris, Orly	16
+Brussels, Charleroi	2
+Frankfurt, Hahn	2
+Toronto, Pearson	2
+São Paulo, Guarulhos	2
+Lisboa	20
+Madeira	8
+Lisboa	20
+Madrid	16
+Madrid	16
+Manchester	2
+Lisboa	20
+Barcelona	6
+Frankfurt	6
+Paris, Orly	16
+Geneva	12
+Paris, Beauvais	4
+Lisboa	20
+Madrid	16
+London, Stansted	4
+Brussels	8
+Milan/Bergamo	2
+Basel	4
+Madeira	8
+Barcelona	6
+Brussels	8
+Lisboa	20
+Paris, Orly	16
+Paris, Orly	16
+London, Gatwick	6
+Rome, Fiumicino	2
+Istanbul, Ataturk	2
+London, Luton	2
+Basel	4
+Lisboa	20
+Eindhoven	2
+Valencia	2
+Geneva	12
+Milan, Malpensa	4
+London, Gatwick	6
+Brussels	8
+Frankfurt	6
+Madrid	16
+Brussels	8
+Ponta Delgada	2
+Lisboa	20
+Paris, Orly	16
+Clermont-Ferrand	4
+Paris, Vatry	2
+Carcassonne	2
+Madrid	16
+Saint Etienne	2
+Lyon, St. Exupery	2
+Toulouse, Blagnac	2
+Paris, Orly	16
+Lisboa	20
+Zurich	4
+Clermont-Ferrand	4
+Palma Mallorca	2
+Luxembourg	4
+Luanda	2
+Zurich	4
+Geneva	12
+Madeira	8
+Madrid	16
+Geneva	12
+Barcelona	6
+Tenerife Sur	2
+Madrid	16
+Lisboa	20
+Marseille	2
+Amsterdam	2
+Paris, Orly	16
+Faro	4
+Luxembourg	4
+Geneva	12
+Lisboa	20
+Milan, Malpensa	4
+Lille	2
+Madeira	8
+Paris, Ch. de Gaulle	4
+Hamburg	2
+Frankfurt	6
+Memmingen	2
+London, Gatwick	6
+Geneva	12
+Paris, Beauvais	4
+London, Stansted	4
+Madrid	16
+Paris, Orly	16
+Faro	4
+Paris, Ch. de Gaulle	4
+Paris, Orly	16
+Brussels, Charleroi	2
+Frankfurt, Hahn	2
+Toronto, Pearson	2
+São Paulo, Guarulhos	2
+Lisboa	20
+Madeira	8
+Lisboa	20
+Madrid	16
+Madrid	16
+Manchester	2
+Lisboa	20
+Barcelona	6
+Frankfurt	6
+Paris, Orly	16
+Geneva	12
+Paris, Beauvais	4
+Lisboa	20
+Madrid	16
+London, Stansted	4
+Brussels	8
+Milan/Bergamo	2
+Basel	4
+Madeira	8
+Barcelona	6
+Brussels	8
+Lisboa	20
+Paris, Orly	16
+Paris, Orly	16
+London, Gatwick	6
+Rome, Fiumicino	2
+Istanbul, Ataturk	2
+London, Luton	2
+Basel	4
+Lisboa	20
+Eindhoven	2
+Valencia	2
+Geneva	12
+Milan, Malpensa	4
+London, Gatwick	6
+Brussels	8
+Frankfurt	6
+Madrid	16
+Brussels	8
+Ponta Delgada	2
+Lisboa	20
+Paris, Orly	16
+Clermont-Ferrand	4
+Paris, Vatry	2
+Carcassonne	2
+Madrid	16
+Saint Etienne	2
+Lyon, St. Exupery	2
+Toulouse, Blagnac	2
+Paris, Orly	16
+Lisboa	20
+Zurich	4
+Clermont-Ferrand	4
+Palma Mallorca	2
+Luxembourg	4
+Luanda	2
+Zurich	4
+Geneva	12
+Madeira	8
+Madrid	16
+Geneva	12
+Barcelona	6
+Tenerife Sur	2
+Madrid	16
+Lisboa	20
+Marseille	2
+Amsterdam	2
+Paris, Orly	16
+Faro	4
+Luxembourg	4
+Geneva	12
+Lisboa	20
+Milan, Malpensa	4
+Lille	2
+Madeira	8
+Paris, Ch. de Gaulle	4
+Hamburg	2
+Frankfurt	6
+Memmingen	2
+London, Gatwick	6
+Geneva	12
+Paris, Beauvais	4
+London, Stansted	4

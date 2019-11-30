@@ -1,18 +1,20 @@
-package aula01;
+package aula05;
+import java.util.*;
 
 public class Data{
 	
 	private int dia, mes, ano;
+	private Calendar date=Calendar.getInstance();
 
-public Data(int dia, int mes, int ano) {
+public Data(String data) {
 	
 	assert dia>0 && dia<diasDoMes(mes, ano) : "invalid day";
 	assert mes>0 && mes<=12 : "invalid month";
 	assert ano>0 : "invalid year";
-	
-	dia=this.dia;
-	mes=this.mes;
-	ano=this.ano;
+	String[] datas=data.split("/");
+	this.dia=Integer.parseInt(datas[0]);
+	this.mes=Integer.parseInt(datas[1]);
+	this.ano=Integer.parseInt(datas[2]);
 	
 }
 
@@ -32,9 +34,19 @@ public static int diasDoMes(int mes, int ano) {
     result++;
   return result;
 }
+public Data today(){
+	int today_dia,today_mes,today_ano;
+
+	today_dia=date.get(Calendar.DAY_OF_MONTH);
+	today_mes=date.get(Calendar.MONTH);
+	today_ano=date.get(Calendar.YEAR);
+
+	String d=today_dia+"/"+today_mes+"/"+today_ano;
+	return new Data(d);
+}
 
 public String toString(){
-	return String.format("%02d-%02d-%04d", dia, mes, ano);
+	return dia+"-"+mes+"-"+ano;
 }
 }
 
