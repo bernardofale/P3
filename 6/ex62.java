@@ -16,7 +16,6 @@ public class ex62 {
      List<Figura> lista = new ArrayList<Figura>();
      lista.add(new Circulo(2)); 
      lista.add(new Circulo(1, 3, 1));
-     lista.add(new Quadrado(5)); 
      lista.add(new Quadrado(3, 4, 2));
      lista.add(new Rectangulo(2, 3)); 
      lista.add(new Rectangulo(3, 4, 5, 3));
